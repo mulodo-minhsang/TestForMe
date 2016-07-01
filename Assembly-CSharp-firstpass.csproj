@@ -88,7 +88,7 @@
      <None Include="Assets\Plugins\Android\res\values-da\strings.xml" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
      <None Include="Assets\Plugins\Android\res\values-de\strings.xml" />
-     <None Include="Assets\Externals\Packages\FacebookSDK\SDK\Editor\android\DefaultAndroidManifest.xml" />
+     <None Include="Assets\Externals\Packages\FacebookSDK\Editor\android\DefaultAndroidManifest.xml" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />
      <None Include="Assets\Plugins\Android\res\values-ar\strings.xml" />
      <None Include="Assets\Plugins\Android\res\values-zh-rTW\strings.xml" />
@@ -195,7 +195,7 @@
      <None Include="Assets\Plugins\Android\res\values-sv\strings.xml" />
      <None Include="Assets\Plugins\Android\res\values-be\strings.xml" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrection3DLut.shader" />
-     <None Include="Assets\Externals\Packages\FacebookSDK\SDK\Scripts\Canvas\Resources\JSSDKBindings.txt" />
+     <None Include="Assets\Externals\Packages\FacebookSDK\Scripts\Canvas\Resources\JSSDKBindings.txt" />
      <None Include="Assets\Plugins\Android\res\values-ru\strings.xml" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\LensFlareCreate.shader" />
      <None Include="Assets\Plugins\Android\res\values-sr\strings.xml" />
