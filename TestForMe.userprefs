@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Plugins\iOS\GPGPlugin.mm">
+    <Files>
+      <File FileName="Assets\Externals\Packages\google-plus-ios-sdk-1.7.1\SampleCode\SignInViewController.h" Line="1" Column="1" />
+      <File FileName="Assets\Externals\Packages\google-plus-ios-sdk-1.7.1\SampleCode\SignInViewController.m" Line="182" Column="25" />
+      <File FileName="Assets\Externals\Packages\google-plus-ios-sdk-1.7.1\SampleCode\ShareViewController.h" Line="1" Column="1" />
+      <File FileName="Assets\Externals\Packages\google-plus-ios-sdk-1.7.1\SampleCode\ShareViewController.m" Line="76" Column="1" />
+      <File FileName="Assets\Externals\Packages\FacebookSDK\Examples\Scripts\SubMenus\MainMenu.cs" Line="73" Column="48" />
+      <File FileName="Assets\Externals\Packages\FacebookSDK\Examples\Scripts\SubMenus\AppInvites.cs" Line="25" Column="5" />
+      <File FileName="Assets\Externals\Packages\FacebookSDK\Examples\Scripts\SubMenus\AppRequests.cs" Line="27" Column="5" />
+      <File FileName="Assets\Externals\Packages\FacebookSDK\Examples\Scripts\SubMenus\DialogShare.cs" Line="29" Column="5" />
+      <File FileName="Assets\Plugins\iOS\GPGPlugin.mm" Line="38" Column="3" />
+      <File FileName="Assets\Plugins\iOS\GPGPlugin.h" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
